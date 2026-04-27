@@ -31,6 +31,15 @@
         <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-2" target="Tb7Uy9qKZ3V11g4DzXMP-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-2" target="Tb7Uy9qKZ3V11g4DzXMP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-2" target="Tb7Uy9qKZ3V11g4DzXMP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-2" target="Tb7Uy9qKZ3V11g4DzXMP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-2" value="用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
         </mxCell>
