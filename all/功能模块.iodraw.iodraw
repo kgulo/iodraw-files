@@ -9,8 +9,11 @@
             <mxRectangle x="40" y="80" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-1" value="中学校运动会管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="240" y="50" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
