@@ -73,6 +73,18 @@
         <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-32" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;裁判员信息维护&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="360" width="30" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-39" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;裁判员信息维护&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="30" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-40" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;裁判员信息维护&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="30" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-41" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;裁判员信息维护&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="30" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-42" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;裁判员信息维护&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="30" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
