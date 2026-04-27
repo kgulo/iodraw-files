@@ -14,10 +14,10 @@
           <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-4" value="用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-6" value="用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tb7Uy9qKZ3V11g4DzXMP-7" value="用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="780" width="120" height="60" as="geometry" />
