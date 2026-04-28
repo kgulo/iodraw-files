@@ -28,9 +28,6 @@
         <mxCell id="I9GlqRSLoXxo1EwwbDa7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-5" target="I9GlqRSLoXxo1EwwbDa7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I9GlqRSLoXxo1EwwbDa7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-5" target="I9GlqRSLoXxo1EwwbDa7-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="I9GlqRSLoXxo1EwwbDa7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tb7Uy9qKZ3V11g4DzXMP-5" target="I9GlqRSLoXxo1EwwbDa7-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -135,9 +132,6 @@
         </mxCell>
         <mxCell id="I9GlqRSLoXxo1EwwbDa7-15" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;状态登记&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="30" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="I9GlqRSLoXxo1EwwbDa7-16" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); line-height: 19px;&quot;&gt;检录名单生成&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="360" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="I9GlqRSLoXxo1EwwbDa7-17" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;名次与积分计算&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=12;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="360" width="30" height="230" as="geometry" />
