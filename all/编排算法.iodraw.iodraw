@@ -74,7 +74,7 @@
           <mxGeometry x="290" y="680" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDXXBDMaRldRJhBdiPjO-27" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;是否需要道次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="500" width="170" height="80" as="geometry" />
+          <mxGeometry x="395" y="820" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
