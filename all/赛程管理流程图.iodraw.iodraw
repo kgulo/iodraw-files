@@ -32,18 +32,8 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-5" value="赛事状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337.5" y="280" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-cROpv_JpNBwOf94tKhR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-9" value="生成田赛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247.5" y="350" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-cROpv_JpNBwOf94tKhR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="460" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-10" value="生成径赛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="457.5" y="350" width="105" height="50" as="geometry" />
@@ -56,6 +46,9 @@
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-13" value="班级账户上交全部报名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="207.5" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-cROpv_JpNBwOf94tKhR-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
