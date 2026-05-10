@@ -187,6 +187,9 @@
         <mxCell id="YsEZbud77QNEb3x6RHk1-82" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="380" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YsEZbud77QNEb3x6RHk1-83" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="355" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
