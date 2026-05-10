@@ -61,6 +61,9 @@
         <mxCell id="YsEZbud77QNEb3x6RHk1-20" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="190" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YsEZbud77QNEb3x6RHk1-23" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
