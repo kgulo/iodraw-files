@@ -20,8 +20,8 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-2" value="设置比赛项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-cROpv_JpNBwOf94tKhR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="-cROpv_JpNBwOf94tKhR-4" value="赛程编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="230" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
