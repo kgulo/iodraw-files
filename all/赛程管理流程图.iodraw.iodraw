@@ -110,7 +110,7 @@
           <mxGeometry x="150" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-48" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="518" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-50" value="系统可视化表现积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="865" width="165" height="50" as="geometry" />
