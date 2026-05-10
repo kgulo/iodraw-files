@@ -87,7 +87,7 @@
           <mxGeometry x="540" y="495" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-33" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="472.5" y="685" width="40" height="30" as="geometry" />
+          <mxGeometry x="490" y="685" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="760" width="40" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-35" value="成绩是否需要修改" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="337.5" y="615" width="135" height="50" as="geometry" />
+          <mxGeometry x="326.25" y="610" width="152.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-38" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="655" width="40" height="30" as="geometry" />
