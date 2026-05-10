@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="190" width="120" height="60" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-20" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsEZbud77QNEb3x6RHk1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YsEZbud77QNEb3x6RHk1-23" target="YsEZbud77QNEb3x6RHk1-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-23" value="组织报名" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="130" height="60" as="geometry" />
