@@ -38,7 +38,7 @@
           <mxGeometry x="550" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-6" value="运动会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-7" value="赛程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="690" width="120" height="60" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-23" value="组织报名" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YsEZbud77QNEb3x6RHk1-26" value="记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="580" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
