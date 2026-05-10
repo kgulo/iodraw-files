@@ -23,7 +23,7 @@
           <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-7" value="赛程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YsEZbud77QNEb3x6RHk1-8" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="690" width="120" height="60" as="geometry" />
