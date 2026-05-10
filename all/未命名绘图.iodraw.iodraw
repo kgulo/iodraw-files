@@ -166,6 +166,9 @@
         <mxCell id="YsEZbud77QNEb3x6RHk1-74" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="80" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YsEZbud77QNEb3x6RHk1-75" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
