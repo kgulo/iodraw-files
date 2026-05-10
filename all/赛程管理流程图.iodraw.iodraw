@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="693" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -59,6 +59,9 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-17" value="进行比赛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-cROpv_JpNBwOf94tKhR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-21" target="-cROpv_JpNBwOf94tKhR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-21" value="成绩录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,6 +91,11 @@
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-35" target="-cROpv_JpNBwOf94tKhR-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cROpv_JpNBwOf94tKhR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="665.0344827586207" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-35" value="成绩是否需要修改" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337.5" y="640" width="135" height="50" as="geometry" />
