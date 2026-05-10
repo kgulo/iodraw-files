@@ -74,6 +74,9 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-23" value="是否还需安排决赛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337.5" y="685" width="135" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-cROpv_JpNBwOf94tKhR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-26" target="-cROpv_JpNBwOf94tKhR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-26" value="计算名次积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="755" width="120" height="50" as="geometry" />
         </mxCell>
@@ -111,6 +114,9 @@
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-48" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="518" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-cROpv_JpNBwOf94tKhR-50" value="系统可视化表现积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="830" width="165" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
