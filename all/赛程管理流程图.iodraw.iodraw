@@ -59,6 +59,9 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-17" value="进行比赛" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345" y="460" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GONoKtH8ZtIjpH_Y0k38-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-21" target="-cROpv_JpNBwOf94tKhR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-21" value="成绩录入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345" y="530" width="120" height="50" as="geometry" />
         </mxCell>
@@ -103,11 +106,8 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-38" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="655" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-cROpv_JpNBwOf94tKhR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-44" target="-cROpv_JpNBwOf94tKhR-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-44" value="成绩修改申请" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="570" width="120" height="50" as="geometry" />
+          <mxGeometry x="150" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-48" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="518" width="80" height="30" as="geometry" />
