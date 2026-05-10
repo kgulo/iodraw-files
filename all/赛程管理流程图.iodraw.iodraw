@@ -59,9 +59,6 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-17" value="进行比赛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-cROpv_JpNBwOf94tKhR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-cROpv_JpNBwOf94tKhR-21" target="-cROpv_JpNBwOf94tKhR-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-cROpv_JpNBwOf94tKhR-21" value="成绩录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="555" width="120" height="60" as="geometry" />
         </mxCell>
