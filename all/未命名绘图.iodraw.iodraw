@@ -52,6 +52,9 @@
         <mxCell id="YsEZbud77QNEb3x6RHk1-13" value="记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="580" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YsEZbud77QNEb3x6RHk1-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
