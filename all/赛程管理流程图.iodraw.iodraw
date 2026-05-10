@@ -83,8 +83,11 @@
         <mxCell id="-cROpv_JpNBwOf94tKhR-28" value="计算预赛名次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="495" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-cROpv_JpNBwOf94tKhR-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="648" width="50" height="30" as="geometry" />
+        <mxCell id="-cROpv_JpNBwOf94tKhR-33" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="648" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-cROpv_JpNBwOf94tKhR-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="394" y="700" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
