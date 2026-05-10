@@ -73,8 +73,8 @@
         <mxCell id="YsEZbud77QNEb3x6RHk1-26" value="记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YsEZbud77QNEb3x6RHk1-27" value="记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="450" width="130" height="60" as="geometry" />
+        <mxCell id="YsEZbud77QNEb3x6RHk1-27" value="选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
